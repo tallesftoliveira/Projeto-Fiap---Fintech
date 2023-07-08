@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Righteous&family=Sarala:wght@400;700&display=swap');
+
+* {
+  margin: 20;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  background-color: rgba(243, 255, 243, 0.99);
+}
+
+.titulo {
+  margin-left: 100px;
+
+}
+
+header {
+  font-size: 100%;
+  background: #201b2c;
+  text-align:right;
+  word-spacing:70px;
+  color: #022515;
+  margin: 15px;
+}
+
+h1{
+    color: #075c34
+}
+
+h2{
+    color: #075c34;
+}
+
+h3{
+    color: #075c34;
+}
+
+p{
+    color: #075c34;
+}
+
+
+img{
+  width: 600px;
+  height: 500px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  float: left;  
+  margin-top: 150px;
+  margin-left: 800px;
+  
+}
+
+.texto{
+  position: absolute;
+  float: left;  
+  margin-top: 200px;
+  margin-left: 100px;
+}
+  
+
+
+
